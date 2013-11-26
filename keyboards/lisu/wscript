@@ -1,0 +1,9 @@
+APPNAME = 'LisuKeyboards'
+VERSION = 0.2
+
+for b in ('basic', 'standard') :
+	kbd(target = 'kbds/lisu_' + b + '.kmn',
+		source = 'lisu_' + b + '.kmn',
+		font = 'Fonts/lisutzimu.ttf',
+		mskbd = mskbd(),
+		fontname = 'LisuTzimu')

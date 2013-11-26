@@ -1,0 +1,162 @@
+<?xml version='1.0'?>
+<characterMapping
+    id="SIL-Lisu78-2009"
+    version="1"
+    description="Lisu78 encoding"
+    contact="mailto:martin_hosken@sil.org"
+    registrationAuthority="none"
+    registrationName=""
+    byte-font="LS78"
+>
+
+<history>
+    <modified version="1" date="2009-06-17">
+        Original
+    </modified>
+</history>
+
+<assignments sub="2F">
+    <a b="20" u="0020"/>
+    <a b="21" u="0021"/>
+    <a b="22" u="0022"/>
+    <a b="23" u="0023"/>
+    <a b="24" u="0024"/>
+    <a b="25" u="0025"/>
+    <a b="26" u="0026"/>
+    <a b="27" u="0027"/>
+    <a b="28" u="0028"/>
+    <a b="29" u="0029"/>
+    <a b="2A" u="002A"/>
+    <a b="2B" u="002B"/>
+    <a b="2C" u="002C" bbctxt="lisu"/>
+    <a b="2D" u="002D"/>
+    <a b="2E" u="002E" bbctxt="lisu"/>
+    <a b="2F" u="002F"/>
+    <a b="30" u="0030"/>
+    <a b="31" u="0031"/>
+    <a b="32" u="0032"/>
+    <a b="33" u="0033"/>
+    <a b="34" u="0034"/>
+    <a b="35" u="0035"/>
+    <a b="36" u="0036"/>
+    <a b="37" u="0037"/>
+    <a b="38" u="0038"/>
+    <a b="39" u="0039"/>
+    <a b="3A" u="003A" bbctxt="lisu"/>
+    <a b="3B" u="003B" bbctxt="lisu"/>
+    <a b="3D" u="003D" bbctxt="lisu"/>
+    <a b="3F" u="003F"/>
+    <a b="40" u="0040"/>
+    <a b="5B" u="005B"/>
+    <a b="5D" u="005D"/>
+    <a b="5E" u="005E"/>
+    <a b="5F" u="005F"/>
+    <a b="60" u="0060"/>
+    <a b="7C" u="007C"/>
+    <a b="A4" u="00A4"/>
+    <a b="A7" u="00A7"/>
+    <a b="A9" u="00A9"/>
+    <a b="AB" u="00AB"/>
+    <a b="AC" u="00AC"/>
+    <a b="AE" u="00AE"/>
+    <a b="B0" u="00B0"/>
+    <a b="B6" u="00B6"/>
+    <a b="B7" u="2219"/>
+    <a b="BB" u="00BB"/>
+    <fub b="61" u="0041"/>
+    <fub b="62" u="0042"/>
+    <fub b="63" u="0043"/>
+    <fub b="64" u="0044"/>
+    <fub b="65" u="0045"/>
+    <fub b="66" u="0046"/>
+    <fub b="67" u="0047"/>
+    <fub b="68" u="0048"/>
+    <fub b="69" u="0049"/>
+    <fub b="6A" u="004A"/>
+    <fub b="6B" u="004B"/>
+    <fub b="6C" u="004C"/>
+    <fub b="6D" u="004D"/>
+    <fub b="6E" u="004E"/>
+    <fub b="6F" u="004F"/>
+    <fub b="70" u="0050"/>
+    <a b="71" u="0051"/>
+    <fub b="72" u="0052"/>
+    <fub b="73" u="0053"/>
+    <fub b="74" u="0054"/>
+    <fub b="75" u="0055"/>
+    <fub b="76" u="0056"/>
+    <fub b="77" u="0057"/>
+    <fub b="78" u="0058"/>
+    <fub b="79" u="0059"/>
+    <fub b="7A" u="005A"/>
+    <a b="41" u="A4EF"/>
+    <a b="42" u="A4ED"/>
+    <a b="43" u="A4DB"/>
+    <a b="44" u="A4F7"/>
+    <a b="45" u="A4F1"/>
+    <a b="46" u="A4DE"/>
+    <a b="47" u="A4E8"/>
+    <a b="48" u="A4FA"/>
+    <a b="49" u="A4FE"/>
+    <a b="4A" u="A4E9"/>
+    <a b="4B" u="A4D8"/>
+    <a b="4C" u="A4F6"/>
+    <a b="4D" u="25AA"/>
+    <a b="4E" u="2022"/>
+    <a b="4F" u="02CD"/>
+    <a b="50" u="A4D2"/>
+    <a b="51" u="2605"/>
+    <a b="52" u="A4E4"/>
+    <a b="54" u="A4D5"/>
+    <a b="55" u="A4F5"/>
+    <a b="56" u="A4E5"/>
+    <a b="58" u="201D"/>
+    <a b="5A" u="201C"/>
+    <fub b="27" u="2018"/>
+    <fub b="60" u="2019"/>
+    <a b="61" u="A4EE"/>
+    <a b="62" u="A4D0"/>
+    <a b="63" u="A4DA"/>
+    <a b="64" u="A4D3"/>
+    <a b="65" u="A4F0"/>
+    <a b="66" u="A4DD"/>
+    <a b="67" u="A4D6"/>
+    <a b="68" u="A4E7"/>
+    <a b="69" u="A4F2"/>
+    <a b="6A" u="A4D9"/>
+    <a b="6B" u="A4D7"/>
+    <a b="6C" u="A4E1"/>
+    <a b="6D" u="A4DF"/>
+    <a b="6E" u="A4E0"/>
+    <a b="6F" u="A4F3"/>
+    <a b="70" u="A4D1"/>
+    <a b="72" u="A4E3"/>
+    <a b="73" u="A4E2"/>
+    <a b="74" u="A4D4"/>
+    <a b="75" u="A4F4"/>
+    <a b="76" u="A4E6"/>
+    <a b="77" u="A4EA"/>
+    <a b="78" u="A4EB"/>
+    <a b="79" u="A4EC"/>
+    <a b="7A" u="A4DC"/>
+    <a b="2E" u="A4F8"/>
+    <a b="2C" u="A4F9"/>
+    <a b="53" u="A4FB"/>
+    <a b="3B" u="A4FC"/>
+    <a b="3A" u="A4FD"/>
+    <a b="3D" u="A4FF"/>
+</assignments>
+
+<contexts>
+    <group id="lisu">
+        <class-ref name="lisu"/>
+    </group>
+
+    <class name="lisu" size="bytes">2C 2E 3A 3B
+        <class-range start="61" end="7A"/>
+        <class-range start="41" end="4C"/> 50
+        <class-range start="51" end="57"/> 59
+    </class>
+</contexts>
+        
+</characterMapping>

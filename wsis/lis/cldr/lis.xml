@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ldml>
+	<identity>
+		<version number="$Revision: 1.2 $"/>
+		<generation date="$Date: 2009/06/16 23:28:47 $"/>
+		<language type="lis"/> 
+	</identity>
+	<collations>
+		<collation type="standard" draft="provisional" alt="modern">
+			<rules>
+				<reset><first_non_ignorable/></reset><p>&#xA4F8;</p>
+                <pc>&#xA4F9;&#xA4FA;&#xA4FB;&#xA4FD;&#xA4FC;</pc>
+                <pc>&#xA4D0;&#xA4D1;&#xA4D2;&#xA4D3;&#xA4D4;&#xA4D5;&#xA4D6;&#xA4D7;&#xA4D8;&#xA4D9;&#xA4DA;&#xA4DB;&#xA4DC;&#xA4DD;&#xA4DE;&#xA4DF;</pc>
+                <pc>&#xA4E0;&#xA4E1;&#xA4E2;&#xA4E3;&#xA4E4;&#xA4E5;&#xA4E6;&#xA4E7;&#xA4E8;&#xA4E9;</pc>
+                <pc>&#xA4EB;&#xA4ED;&#xA4EA;&#xA4EC;</pc>
+                <pc>&#xA4EE;&#xA4EF;</pc>
+                <pc>&#xA4F0;&#xA4F1;&#xA4F2;&#xA4F3;&#xA4F4;&#xA4F5;&#xA4F6;&#xA4F7;</pc>
+                <reset>&#xA4FE;</reset><p>&#xA4FF;</p>
+			</rules>
+		</collation>
+		<collation type="standard" draft="provisional" alt="traditional">
+			<rules>
+				<reset><first_non_ignorable/></reset><p>&#xA4F8;</p>
+                <pc>&#xA4F9;&#xA4FA;&#xA4FB;&#xA4FD;&#xA4FC;</pc>
+                <pc>&#xA4D0;&#xA4D1;&#xA4D2;&#xA4D3;&#xA4D4;&#xA4D5;&#xA4D6;&#xA4D7;&#xA4D8;&#xA4D9;&#xA4DA;&#xA4DB;&#xA4DC;&#xA4DD;&#xA4DE;&#xA4DF;</pc>
+                <pc>&#xA4E0;&#xA4E1;&#xA4E2;&#xA4E3;&#xA4E4;&#xA4E5;&#xA4E6;&#xA4E7;&#xA4E8;&#xA4E9;</pc>
+                <pc>&#xA4EA;&#xA4EB;&#xA4EC;&#xA4ED;</pc>
+                <pc>&#xA4EE;&#xA4EF;</pc>
+                <pc>&#xA4F0;&#xA4F1;&#xA4F2;&#xA4F3;&#xA4F4;&#xA4F5;&#xA4F6;&#xA4F7;</pc>
+                <reset>&#xA4FE;</reset><p>&#xA4FF;</p>
+			</rules>
+		</collation>
+	</collations>
+</ldml>

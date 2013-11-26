@@ -1,0 +1,8 @@
+APPNAME='lisutzimu'
+VERSION=1.3
+LICENSE='ofl.txt'
+
+for e in ('', '-bold', '-italic', '-bolditalic') :
+	f = font(target = 'lisutzimu'+e+'.ttf',
+			 source = 'font-source/lisutzimu'+e+'.ttf',
+			 license = ofl('LisuTzimu'))
