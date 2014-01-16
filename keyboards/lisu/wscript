@@ -1,9 +1,15 @@
-APPNAME = 'LisuKeyboards'
-VERSION = 0.3
+APPNAME = 'LisuKbd-'
+VERSION = '0.3.3'
+LICENSE = '../kbdlicense.txt'
 
 for b in ('basic', 'standard') :
+#for b in ('standard',) :
+	p = package(appname = APPNAME+b,
+				license = LICENSE,
+				version = VERSION)
 	kbd(target = 'kbds/lisu_' + b + '.kmn',
 		source = 'lisu_' + b + '.kmn',
 		font = 'Fonts/lisutzimu.ttf',
-		mskbd = mskbd(capslockkeys="", lidinstall=[0x0436]),        # afrikaans
-		fontname = 'LisuTzimu')
+		mskbd = mskbd(capslockkeys="", lidinstall=[0x0462]),        # Frisian
+		fontname = 'LisuTzimu',
+		package = p)

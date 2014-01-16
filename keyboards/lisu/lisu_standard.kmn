@@ -1,7 +1,7 @@
 
 c 0.2   switch to use 02CD and 02D7
 
-NAME "Lisu Standard 0.3"
+NAME "Lisu Std 0.3"
 VERSION 5.0
 HOTKEY "^+L"
 
@@ -24,3 +24,4 @@ group(Main) using keys
 
 + any(baseK) > index(base, 1)
 + any(banned) > beep
+c + any(banned) > index(banned, 1)
